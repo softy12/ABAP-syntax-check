@@ -1,4 +1,4 @@
-REPORT ZMM_ABAP_REP_SYNTAX_CHECK01.
+REPORT ZMM_ABAP_REP_SYNTAX_CHECK02.
 * ver 2 interactive version via FM EXTENDED_PROGRAM_CHECK, output comes in SAP screen nicely formatted 
 PARAMETERS: p_prg TYPE sy-repid.
 DATA: lt_result     TYPE slin_result,
